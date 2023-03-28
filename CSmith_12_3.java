@@ -5,7 +5,7 @@ package javacourse.cop2805;
 import java.util.*;
 
 //main class
-public class CSmith_12_3 {
+public class ArrayWithRandomNum {
 
 	//main method
 	public static void main(String[] args) {
