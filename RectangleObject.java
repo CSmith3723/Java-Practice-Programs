@@ -3,7 +3,7 @@ package cop2800;
 
 
 //Create the public class containing the main method and rectangle class
-public class ChrisSmith_09_01 {
+public class RectangleObject {
 
 	//Main method
 	public static void main(String[] args) {
